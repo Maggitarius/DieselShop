@@ -1,0 +1,23 @@
+# Visual Studio cache
+.vs/
+*.user
+*.suo
+
+# Build results
+bin/
+obj/
+out/
+
+# Logs
+*.log
+
+# User-specific files
+*.userosscache
+*.sln.docstates
+
+# Publish outputs
+*.publish.xml
+
+# Others
+node_modules/
+wwwroot/lib/
