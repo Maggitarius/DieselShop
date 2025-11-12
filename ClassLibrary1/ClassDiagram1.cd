@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="apidiesel.Controllers.WarehousesController">
+    <Position X="8" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAQBAAAgAAAAAAAAAAAAAAAAAEABAAAgAA=</HashCode>
+      <FileName>WarehousesController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="apidiesel.Controllers.SuppliersController">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAABAAAAAAABAAICAAAAAAgAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SuppliersController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="apidiesel.Controllers.StocksController">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAhAAAAAAAABAEAAAAAAAAACAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>StocksController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="apidiesel.Controllers.ProductsImportController">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAABAABAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ProductsImportController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="apidiesel.Controllers.ProductsController">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAACAABAAAAAAAAAgAAAAAAAAAQAAACAAAAIA=</HashCode>
+      <FileName>ProductsController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="apidiesel.Controllers.OrdersController">
+    <Position X="9.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACQQAAAAABAAAAAAAAAAAAAAAAAIAAEAAAAAAAAA=</HashCode>
+      <FileName>OrdersController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="apidiesel.Controllers.OrderDetailsController">
+    <Position X="11.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAABgABAAAAEAAAAAAAAAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>OrderDetailsController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="apidiesel.Controllers.OperationsController">
+    <Position X="11.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAABAAEAAAQQAAAAAAAAAAAAAAACAAAAAI=</HashCode>
+      <FileName>OperationsController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="apidiesel.Controllers.OperationDetailsController">
+    <Position X="9.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAgCAAABAAAAAIEAAAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>OperationDetailsController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="apidiesel.Controllers.EmployeesController">
+    <Position X="8" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAIAhAAAAAAAAAAAECAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EmployeesController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="apidiesel.Controllers.CustomersController">
+    <Position X="6" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAABAAAAABAAAAAAACAAAAAAAADAAA=</HashCode>
+      <FileName>CustomersController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="apidiesel.Controllers.CategoriesController">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIABAEAAAAAAAAAAQAAgAAAAAAAAAgAEAA=</HashCode>
+      <FileName>CategoriesController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="apidiesel.Controllers.CartsController">
+    <Position X="2.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAAAAAAAAAAAAAAAAAABACoAAAAACA=</HashCode>
+      <FileName>CartsController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AuthController">
+    <Position X="0.5" Y="3.75" Width="1.5" />
+    <NestedTypes>
+      <Class Name="AuthController.RegisterDto" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>AuthController.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="AuthController.LoginDto" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>AuthController.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAAAAAAAAAAAAABAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>AuthController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
